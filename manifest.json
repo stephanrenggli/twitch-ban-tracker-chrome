@@ -1,0 +1,12 @@
+{
+  "name": "Twitch Ban Tracker Extension",
+  "version": "1.0.0",
+  "description": "Twitch Ban Tracker Companion Extension",
+  "manifest_version": 3,
+  "author": "Stephan Renggli",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Twitch Ban Tracker Extension"
+  },
+  "permissions": ["tabs"]
+}
